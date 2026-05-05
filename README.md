@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/01669263-056e-42b3-8f70-5cd361004a3d
+
 # ai-powered-trading-assistant
 Production-ready LLM-powered chatbot for querying trading knowledge from PDFs using Hybrid Retrieval-Augmented Generation (RAG).
 
